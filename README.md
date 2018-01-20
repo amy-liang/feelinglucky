@@ -1,6 +1,6 @@
 # feelinglucky
 For the lost souls of UW.
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/577/242/datas/gallery.jpg">
+<img src="https://i.imgur.com/VVoGYFW.jpg">
 
 ## Github Pages
 https://vaishalikumanan.github.io/feelinglucky/
