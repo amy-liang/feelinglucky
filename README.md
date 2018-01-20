@@ -1,6 +1,9 @@
 # feelinglucky
 For the lost souls of UW.
+
+<a href="https://vaishalikumanan.github.io/feelinglucky/">
 <img src="https://i.imgur.com/VVoGYFW.jpg">
+  </a>
 
 ## Github Pages
 https://vaishalikumanan.github.io/feelinglucky/
